@@ -1,4 +1,4 @@
-# My B.Tech Data Science Hub
+# My Data Science Hub
 
 Welcome! This repository is my personal digital workspace for my college studies.
 
